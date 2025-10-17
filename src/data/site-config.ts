@@ -63,6 +63,10 @@ const siteConfig: SiteConfig = {
         {
             text: 'Blog',
             href: '/blog'
+        },
+        {
+            text: 'Contact',
+            href: '/contact'
         }
     ],
     footerNavLinks: [
