@@ -9,15 +9,15 @@
 
 :root {
     --text-main: #171717;
-    --bg-main: #f2f1ec;
-    --bg-muted: #eae9e1;
+    --bg-main: #ffffff;
+    --bg-muted: #ffffff;
     --border-main: #171717;
 }
 html.dark {
-    --text-main: #f2f1ec;
+    --text-main: #ffffff;
     --bg-main: #171717;
     --bg-muted: #242424;
-    --border-main: #f2f1ec;
+    --border-main: #ffffff;
 }
 
 /* Cyan */
