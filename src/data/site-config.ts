@@ -44,7 +44,7 @@ const siteConfig: SiteConfig = {
     subtitle: 'Space of Teja Narayana',
     description: 'Welcome to the world of Teja. Let\'s get to know each other',
     image: {
-        src: '/teja-preview.jpg',
+        src: '/tj.jpg',
         alt: 'Space of Teja Narayana'
     },
     headerNavLinks: [

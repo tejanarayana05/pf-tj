@@ -5,6 +5,8 @@ seo:
   description: Get in touch through email or social media! Let me know how I can help.
 ---
 
+![Alt text for image](/tj.jpg)
+
 Thank you for reaching out! Whether you have a question, a suggestion, or just want to share your thoughts, I'm all ears. Feel free to get in touch through any of the methods below:
 
 _Email:_
