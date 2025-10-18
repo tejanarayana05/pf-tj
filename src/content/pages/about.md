@@ -31,6 +31,13 @@ seo:
 - **Analytics & BI**: Power BI, Tableau, Data Collection, Survey Design, Cost-Benefit Analysis
 - **Business & Tools**: LaTex, Microsoft Word, Excel, PowerPoint, Evidence-Based Evaluation
 
+## Education
+
+**Bachelors of Technology**
+JNTU, Kakinada | 2020 - 2024 | 8.58 CGPA
+
+- **Relevant Coursework**: Problem Solving Techniques, Advanced Data Structures, Programming for Problem Solving, Probability and Statistics, Software Engineering, Artificial Intelligence, Machine Learning, Block Chain Technology, Software Testing Methodologies, Software Project Management, User Interface Design, Design Thinking, Human Factors in Engineering, Entrepreneurship Management, Soft Skills, Universal Human Values
+
 ## Certifications
 
 - **Oracle University** - Generative AI Professional
