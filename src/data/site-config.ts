@@ -103,7 +103,7 @@ const siteConfig: SiteConfig = {
     ],
     hero: {
         title: 'Hello, Welcome to my space 🙏',
-        text: "I'm **Teja Narayana**, currently a Product Analyst Intern at <a href='https://www.gxco.org'>GXCO</a> , dedicated to the realms of product management, data analytis and artificial intelligence. I believe the best products are built with total empathy. My work as a Product Analyst Intern is a continuous exercise in shifting perspective: I dive into the technical code to find innovative solutions, but I first place myself squarely in the end-user's mind to understand the true need. This human-factored, ergonomic, and user-centric philosophy ensures that the solutions I design from OOD to final feature are not just technically correct, but genuinely provide the best experience for the client, the developer, and the business.",
+        text: "I'm **Teja Narayana**, currently a Product Analyst Intern at <a href='https://www.gxco.org'>GXCO</a> , dedicated to the realms of product management, data analytics and artificial intelligence. I believe the best products are built with total empathy. My work as a Product Analyst Intern is a continuous exercise in shifting perspective: I dive into the technical code to find innovative solutions, but I first place myself squarely in the end-user's mind to understand the true need. This human-factored, ergonomic, and user-centric philosophy ensures that the solutions I design from OOD to final feature are not just technically correct, but genuinely provide the best experience for the client, the developer, and the business.",
         image: {
             src: '/hero.jpeg',
             alt: 'Picture of Teja'

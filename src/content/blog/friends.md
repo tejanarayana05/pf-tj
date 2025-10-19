@@ -14,7 +14,7 @@ seo:
 
 ### The Good Old Days
 
-They say you never realize you’re in the good old days until they’ve passed. Looking back, I finally understand what that means. Those years weren’t just about lectures, deadlines, or exams—they were about laughter echoing through the corridors, endless late-night talks, and the kind of friendship that made even the toughest days bearable.
+They say you never realize you’re in the good old days until they’ve passed. Looking back, I finally understand what that means. Those years weren’t just about lectures, deadlines, or exams, they were about laughter echoing through the corridors, endless late-night talks, and the kind of friendship that made even the toughest days bearable.
 
 I was lucky to have people who turned those ordinary days into moments I’ll always cherish. My boys made everything better, every joke lighter, every problem smaller, every memory brighter. Four years went by like a heartbeat, yet within them lived a lifetime of stories, smiles, and warmth.
 ![Friends 2](/p-1-2.jpg)
